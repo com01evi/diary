@@ -1,0 +1,72 @@
+Motto{
+    I keep my habits to learn new stuffs.
+    数学と文学とプログラミングを手を動かして遊ぶ。
+    投資で食べていく。
+    ノート主体の人生。
+    悲しませないように努力する。
+    努力の複利。
+    Easy has a cost.
+    自分は投資家でありサイエンティストであり思想家である。
+    プロはどんなムードでも積み重ねる。
+    ひとつひとつ。
+    守りと攻めのバランス。
+    学んでいることを愛する。
+    本気になれ。
+    分からないことが問題なのではなく、分からないことに向き合わないのが問題なのである。
+    情熱と粘り強さが成功の鍵。
+    Never give up.
+}
+
+Goals for 2022{
+    Social{
+        パートナーを得ること。 -> 6月から開始 12月までに見つける。
+            容姿を整える。
+            コミュニケーション能力
+    　      十分な収入。
+    
+        繋がりを得ること。 
+            自分がしっかり学んで発信活動を続けた先に繋がりが見つかる。
+            アットホーム的な繋がりも欲しい。
+    
+    }
+    
+    Work{
+            DAO
+            エンジニア
+            翻訳家
+            ライター
+            リサーチャー
+            エアドロ
+            Play to earn
+    }
+    
+    Learning{
+        世界はどうなっていくか、どうしていきたいかを語れる人になる。
+    
+        今読んでいる本プラス、Homodeus、the changing world orderを読み終える。 12月まで
+        
+        自分の学んでいることを丁寧にまとめて自分の思考を作っていく。
+        ブロックチェーンやWeb3でどのように社会が変わるかの解像度を上げていく。
+        この解像度が上がれば上がるほど、社会の繋がりが増えていく。
+
+        スピーキングとリスニング力を上げること。 6月。
+
+        MLをマスターすること。 
+        MLを使う。6月。
+        アルゴリズムを書く 12月。
+        MLが得意になったら、言語理解、分析ができるようになる。意思決定のサポートにAIを使いたい。
+    
+    }
+
+}
+
+Thoughts{
+    The speed of change is accelating. The more time passes, the more market penetration speed is growing.
+    The power of science and technology is exploding. What AI can do is unimaginable.
+    The market volume is increasing.
+}
+
+Draft{
+    今日はディープラーニングにも少し触れた。このまま学び続ければ、機械学習を自由に使いこなせる思想家になれる。 投資家はskin in the gameなだけ。
+
+}

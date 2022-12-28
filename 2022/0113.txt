@@ -1,0 +1,79 @@
+Motto{
+    I keep my habits to learn new stuffs and earn with them.
+    数学と文学とプログラミングを手を動かして遊ぶ。
+    投資で食べていく。
+    ノート主体の人生。
+    悲しませないように努力する。
+    努力の複利。
+    Easy has a cost.
+    自分は投資家でありサイエンティストであり思想家である。
+    プロはどんなムードでも積み重ねる。
+    ひとつひとつ。
+    守りと攻めのバランス。
+    学んでいることを愛する。
+    本気になれ。
+    分からないことが問題なのではなく、分からないことに向き合わないのが問題なのである。
+    情熱と粘り強さが成功の鍵。
+    Never give up.
+    Time is the most valuable asset we all have.
+}
+
+Goals for 2022{
+    Social{
+        パートナーを得ること。 -> 6月から開始12月までに見つける。
+            容姿を整える。 -> 服を揃える。 -> 5000円クラスの美容院に行く。
+            コミュニケーション能力 -> 英語のフリートークの教室を見つける。
+    　      十分な収入。
+    
+        繋がりを得ること。
+            自分がしっかり学んで発信活動を続けた先に繋がりが見つかる。
+            アットホーム的な繋がりも欲しい。
+    }
+    
+    Work{ 6月までにきっかけを作る。
+            リサーチャー
+            DAO
+            翻訳家
+            ライター
+            エアドロ
+            Play to earn
+            エンジニア -> 雇用されるより、役に立つものを作って売った方が良いかも。
+    }
+    
+    Learning{
+        世界はどうなっていくか、どうしていきたいかを語れる人になる。 -> Reviewで自分の考えをまとめる。
+        自分の学んでいることを丁寧にまとめて自分の思考を作っていく。
+        ブロックチェーンやWeb3でどのように社会が変わるかの解像度を上げていく。
+        この解像度が上がれば上がるほど、社会の繋がりが増えていく。
+
+        今読んでいる本プラス、Homodeus、the changing world orderを読み終える。 12月まで
+
+        スピーキングとリスニング力を上げること。 6月。
+
+        MLをマスターすること。
+        MLを使う。6月。
+        アルゴリズムを書く 12月。
+        MLが得意になったら、言語理解、分析ができるようになる。意思決定のサポートにAIを使いたい。
+    
+    }
+
+}
+
+Thoughts{
+    The speed of change is accelating. The more time passes, the more market penetration speed is growing.
+    The power of science and technology is exploding. What AI can do is unimaginable.
+    The market volume is increasing.
+    The way to get involve with market is changing.
+    Crisis of global neoliberalism.
+}
+
+Draft{
+    6月までは、データサイエンティストもしくは、DAO、MLエンジニアを目指していて良い。その後は確実な仕事にシフトする。
+
+    学ぶ、調べるだけでなく考える時間を増やす。考えること、発信することが足りていない。Twitterを発信するための環境に変える。
+
+    自分が学んだものと細くつながっている状態を作る。完全に辞めると記憶が失われてしまうので、無くならない程度に続ける。
+    機械学習やディープラーニングでどんな社会問題を解決できるかを真剣に考えることで仕事を生み出せる。 -> 社会課題とMLを結びつける。
+    CPUベースのfederated学習でモデルを作りたい。
+    本当に長期的に人類と地球のためになるAIを作らなければならない。
+}

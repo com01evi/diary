@@ -1,0 +1,6 @@
+There might be some habits that I should keep and other habits I should discard.
+It is important to decide how to earn money to find out which habits I should keep.
+What do I want to know? What do I want to create?How I earn money?
+I work as a data scientist and invest in blockchains.
+What I have to know about blockchain is how Ethereum will scale and reduce gas cost, how Dfinity interact with Ethereum and Dfinity solves cost problem on Ethereum. To know that, I have to build scaled application on Ethereum and Dfinity.
+Body, universe, math and programming.
